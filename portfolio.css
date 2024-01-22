@@ -1,0 +1,31 @@
+
+.nav img{
+    width: 90px;
+   margin-left: 50px;
+   margin-top: 10px;
+   border-radius:100px;
+   
+}
+.nav{
+    width: 50%;
+    float: left;
+    /* margin-left: 5%;
+    padding-left: 2%;  */
+}
+#navoone{
+    color: black;
+    text-decoration: none;
+    margin-left: 60%;
+   
+}
+ 
+#navotwo{
+    color: rgb(37, 29, 180);
+    text-decoration: none;
+   
+    margin-left: 80%;
+    background-color: white;
+    border-style: solid;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
